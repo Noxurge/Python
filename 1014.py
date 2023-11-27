@@ -1,4 +1,3 @@
-
 X = int(input())
 Y = float(input())
 GASTO = X / Y
