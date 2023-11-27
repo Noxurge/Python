@@ -1,4 +1,4 @@
 # Python
 Desafios Python realizados no site beecrowd!
 
-RXNzZSDpIGFwZW5hcyB1bSBkZXNhZmlvIHNpbXBsZXMsIHZvY+ogY29uc2VndWUgcmVzb2x2ZXI/IEZGRntIWUtfWUpGUn0=
+RWVlaXZzc0Zfc25zbW9lb0ZZc2FhcGNnbEYzZXNmbOp1dns06XVpZWNlZUhSYW1vc29ycll9cGRzLG5lP0s=
